@@ -37,9 +37,12 @@ body {
 
 .hero h1 {
     font-size: 3rem;
-    color: var(--primary-color);
+    color: #C71585;
     margin-bottom: 1rem;
     line-height: 1.4;
+    font-weight: 700;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    letter-spacing: 0.05em;
 }
 
 .subtitle {
@@ -69,9 +72,12 @@ section {
 
 h2 {
     text-align: center;
-    color: var(--primary-color);
+    color: #C71585;
     margin-bottom: 3rem;
     font-size: 2.5rem;
+    font-weight: 700;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    letter-spacing: 0.03em;
 }
 
 /* 選ばれる理由 */
