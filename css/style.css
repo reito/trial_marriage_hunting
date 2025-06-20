@@ -22,8 +22,8 @@ body {
 
 /* ヒーローセクション */
 .hero {
-    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)),
-                url('../images/cherry-blossom.jpg') center/cover;
+    background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)),
+                url('../images/hero_background.jpg') center/cover;
     height: 100vh;
     display: flex;
     align-items: center;
